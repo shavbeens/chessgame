@@ -2,8 +2,8 @@
 /**
  * Write a description of class Bishop here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Shaviyo Marasinghe) 
+ * @version (2016)
  */
 public class Bishop extends ChessPiece
 {
